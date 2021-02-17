@@ -1,0 +1,20 @@
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\bin\Debug\netcoreapp3.1\Vending Machine Luby.exe
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\bin\Debug\netcoreapp3.1\Vending Machine Luby.deps.json
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\bin\Debug\netcoreapp3.1\Vending Machine Luby.runtimeconfig.json
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\bin\Debug\netcoreapp3.1\Vending Machine Luby.runtimeconfig.dev.json
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\bin\Debug\netcoreapp3.1\Vending Machine Luby.dll
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\bin\Debug\netcoreapp3.1\Vending Machine Luby.pdb
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.csprojAssemblyReference.cache
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending_Machine_Luby.Form1.resources
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.csproj.GenerateResource.cache
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.AssemblyInfoInputs.cache
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.AssemblyInfo.cs
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.csproj.CoreCompileInputs.cache
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.dll
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.pdb
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending Machine Luby.genruntimeconfig.cache
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending_Machine_Luby.Form2.resources
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending_Machine_Luby.Properties.Resources.resources
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending_Machine_Luby.Form3.resources
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending_Machine_Luby.Form4.resources
+C:\Users\deads\source\repos\Vending Machine Luby\Vending Machine Luby\obj\Debug\netcoreapp3.1\Vending_Machine_Luby.EstoqueForm.resources

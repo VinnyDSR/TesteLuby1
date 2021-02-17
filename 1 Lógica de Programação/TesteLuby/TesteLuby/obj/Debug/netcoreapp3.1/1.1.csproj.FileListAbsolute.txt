@@ -1,0 +1,13 @@
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.csprojAssemblyReference.cache
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.AssemblyInfoInputs.cache
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.AssemblyInfo.cs
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.csproj.CoreCompileInputs.cache
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\bin\Debug\netcoreapp3.1\1.1.exe
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\bin\Debug\netcoreapp3.1\1.1.deps.json
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\bin\Debug\netcoreapp3.1\1.1.runtimeconfig.json
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\bin\Debug\netcoreapp3.1\1.1.runtimeconfig.dev.json
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\bin\Debug\netcoreapp3.1\1.1.dll
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\bin\Debug\netcoreapp3.1\1.1.pdb
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.dll
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.pdb
+C:\Users\deads\source\repos\TesteLuby\TesteLuby\obj\Debug\netcoreapp3.1\1.1.genruntimeconfig.cache
